@@ -1,5 +1,5 @@
 # Bilisim A.Ş tarafından istenen task
 
-> cd Marvel 
-> npm install
-> npx react-native run-android
+> Sırasıyla "cd Marvel", 
+> "npm install" ve
+> "npx react-native run-android" komutlarıyla uygulamayı çalıştırabilirsiniz.
